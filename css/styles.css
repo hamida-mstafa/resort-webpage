@@ -41,7 +41,22 @@ font-weight:500;
 
 }
 table{
-  border: ;
-  border-collapse: ;
-
+  padding: 5px;
+  border: 1px solid SlateBlue;
+  border-collapse: collapse;
+}
+ tr{
+  padding: 5px;
+  border: 1px solid SlateBlue;
+  border-collapse: collapse;
+}
+ td{
+  padding: 5px;
+  border: 1px solid SlateBlue;
+  border-collapse: collapse;
+}
+th{
+   padding: 5px;
+  border: 1px solid SlateBlue;
+  border-collapse: collapse;
 }
